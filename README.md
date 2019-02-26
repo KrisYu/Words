@@ -1,5 +1,9 @@
 # Read Me
 
+## 下载
+
+[dmg下载](https://github.com/KrisYu/Words/blob/master/Words.dmg)
+
 
 ## 安装
 
